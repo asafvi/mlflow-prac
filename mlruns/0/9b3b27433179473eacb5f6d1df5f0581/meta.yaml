@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops%20practice/mlflow-prac/mlruns/0/9b3b27433179473eacb5f6d1df5f0581/artifacts
+end_time: 1749176656240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b3b27433179473eacb5f6d1df5f0581
+run_name: luxuriant-sow-999
+run_uuid: 9b3b27433179473eacb5f6d1df5f0581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749176649392
+status: 3
+tags: []
+user_id: mohah

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops%20practice/mlflow-prac/mlruns/0/748a29d0a19f4efea61149fe4f64249f/artifacts
+end_time: 1750732892524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 748a29d0a19f4efea61149fe4f64249f
+run_name: classy-squirrel-720
+run_uuid: 748a29d0a19f4efea61149fe4f64249f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750732885139
+status: 3
+tags: []
+user_id: mohah

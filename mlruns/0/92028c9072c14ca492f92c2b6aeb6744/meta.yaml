@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Work/mlops%20practice/mlflow-prac/mlruns/0/92028c9072c14ca492f92c2b6aeb6744/artifacts
+deleted_time: 1749176848995
+end_time: 1749175958558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 92028c9072c14ca492f92c2b6aeb6744
+run_name: overjoyed-fawn-678
+run_uuid: 92028c9072c14ca492f92c2b6aeb6744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749175949827
+status: 3
+tags: []
+user_id: mohah

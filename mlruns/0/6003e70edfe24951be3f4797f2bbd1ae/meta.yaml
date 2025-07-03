@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops%20practice/mlflow-prac/mlruns/0/6003e70edfe24951be3f4797f2bbd1ae/artifacts
+end_time: 1749176259760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6003e70edfe24951be3f4797f2bbd1ae
+run_name: exultant-gnat-726
+run_uuid: 6003e70edfe24951be3f4797f2bbd1ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749176254596
+status: 3
+tags: []
+user_id: mohah
